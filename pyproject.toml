@@ -8,6 +8,7 @@ packages = [{include = "api_blog"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+flask = "^2.3.2"
 
 
 [build-system]
