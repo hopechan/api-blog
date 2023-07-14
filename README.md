@@ -38,5 +38,5 @@ source .venv/bin/activate
 
 ## start development site
 ```bash
-
+flask --app api/v1 run --debug
 ```
